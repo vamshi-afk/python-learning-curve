@@ -1,2 +1,5 @@
 # python-learning-curve
-This repository contains all the codes and files i have written during my time of learning python
+As seen in the description i will be logging the daily progress and files of the topics i learnt
+
+# topics covered so far 
+
