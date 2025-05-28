@@ -2,7 +2,7 @@ Today I slacked quite a bit so my progress today is very minute, but its somethi
 
 # Topics learned today
 - print()
--input()
+- input()
 
 # Things I might forget
 - print():
