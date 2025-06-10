@@ -8,3 +8,4 @@ I am following Geeks4Geeks free python course for this learning journey.
 - Operators [(Day03)](Day03)
 - Control flow statements [(Day03)](Day03/problems/)
 - Loops [(Day04)](Day04)
+- Functions [(Day05)](Day05)
