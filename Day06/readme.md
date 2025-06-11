@@ -9,7 +9,7 @@
 - String:
     - ord(): returns the integer representing the Unicode of the given character.
     - chr(): returns the character corresponding to a given integer.
-    - escape sequence are used to include special characters which would otherwise be impossible to represent using '\' backslash before the special character.
+    - escape sequence are used to include special characters which would otherwise be impossible to represent using '\\' backslash before the special character.
     - raw strings are special type of string which do not process the escape sequences, useful when dealing with strings which include multiple backslashes like file paths.
     - raw strings are defined by r or R followed by the string in quotes.
     - Formatted strings in Python help us insert variables into strings neatly and efficiently via f''.
