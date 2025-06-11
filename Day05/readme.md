@@ -8,6 +8,6 @@ Went on a Trip so I didn't upload anything, but will continue the grind from tod
 - keyword arguments are arguments which can be provided in any order by using parameter name.
 - positional arguments are arguments which are to be provided in order.
 - Variable Length Arguments: If you want the arguments to be dynamically assigned, they might have varying lenghts in such cases we use this.
-    - Variable Length Positional Arguments: allow you to pass a varying number of arguments to a functio, defined by (*elements)
-    - Variable Length Keyword Arguments: allow you to pass a varying number of named arguments to a functio, defined by (**elements)
-- Returning Mulitple values is possible and assignment of the returned values is done using tuple unpacking
+    - Variable Length Positional Arguments: allow you to pass a varying number of arguments to a function, defined by (*elements).
+    - Variable Length Keyword Arguments: allow you to pass a varying number of named arguments to a function, defined by (**elements).
+- Returning Mulitple values is possible and assignment of the returned values is done using tuple unpacking.
