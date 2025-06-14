@@ -13,3 +13,4 @@ I'm following the free Python course from GeeksforGeeks as my primary resource.
 5. [Loops](04)
 6. [Functions](05)
 7. [String & List Problems](06)
+8. [OOP (Object-Oriented Programming)](07)
