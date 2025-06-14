@@ -3,7 +3,7 @@
 - operators
 - control flow statements
 
-# Things I might forget
+# Notes
 
 ## Operator
 - **Short-circuting in python**:

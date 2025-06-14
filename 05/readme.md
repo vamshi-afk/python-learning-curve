@@ -2,7 +2,7 @@
 
 - Functions
 
-# Things I might forget
+# Notes
 
 - default arguments are given by assigning NA to the parameter.
 - keyword arguments are arguments which can be provided in any order by using parameter name.

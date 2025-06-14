@@ -2,7 +2,7 @@
 
 - OOP (Object-Oriented Programming)
 
-# Things I might forget
+# Notes
 
 - A class serves as a blueprint for creating objects, which are individual instances of that class.
 - A constructor is a special method used to initialize objects when they are created. In Python, the **init** method serves as the constructor. It sets up the initial state of an object by assigning values to its data members.

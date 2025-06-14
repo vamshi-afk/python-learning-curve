@@ -3,7 +3,7 @@
 - print()
 - input()
 
-# Things I might forget
+# Notes
 
 - **print()**:
     - **sep=''**: Specifies how to separate the objects if there is more than one in a given print() function. Default is a space (' ').

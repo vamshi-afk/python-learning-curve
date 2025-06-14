@@ -5,7 +5,7 @@
     - List
     - Tuple
 
-# Things I might forget
+# Notes
 
 - **String**:
     - **ord()**: returns the integer representing the Unicode of the given character.

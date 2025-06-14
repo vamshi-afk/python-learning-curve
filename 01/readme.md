@@ -8,7 +8,7 @@
 - map(), split()
 - .format()
 
-# Things I might forget
+# Notes
 
 - **split()**: splits the string to a list of substrings by a delimitter
 - reverse a list | tuple = [::-1]

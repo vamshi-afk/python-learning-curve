@@ -2,7 +2,7 @@
 
 - Loops
 
-# Things I might forget
+# Notes
 
 - int is not iterable.
 - if you want to iterate using len() use it inside of range().
