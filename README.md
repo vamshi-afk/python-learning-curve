@@ -15,11 +15,10 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | [Input/Output (print & input)](02/)   |
 | [Operators](03/Problems/Operators)    |
 | [Control Flow Statements](03/Problems/ControlFlow)  |
-| [Loops](04/)                           |
-| [Functions](05/)                       |
-| [String, List & Tuple Problems](06/)   |
+| [Loops](04/)                          |
+| [Functions](05/)                      |
+| [String, List & Tuple Problems](06/)  |
 | [Object-Oriented Programming (OOP)](07/) |
-| *More coming soon...*                |
 
 
 ## 🧠 About This Repo
