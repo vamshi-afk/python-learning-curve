@@ -1,8 +1,11 @@
 # python-learning-curve
-This repo contains practice scripts and learning notes from my Python learning journey.
-I am following Geeks4Geeks free python course for this learning journey.
 
-# topics covered so far 
+This repo contains practice scripts and learning notes from my Python learning journey.
+
+I'm following the free Python course from GeeksforGeeks as my primary resource.
+
+## topics covered so far 
+
 1. [Data types in python](01)
 2. [I/O (print() & input())](02)
 3. [Operators](03)
