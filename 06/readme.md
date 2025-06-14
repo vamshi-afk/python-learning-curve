@@ -1,10 +1,10 @@
-# Topics Covered Today
+# Topics Covered 
 - In-depth understanding and solved problems on topics:
     - String
     - List
     - Tuple
 
-# Things I might forget:
+# Things I might forget
 
 - String:
     - ord(): returns the integer representing the Unicode of the given character.

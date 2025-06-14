@@ -1,4 +1,4 @@
-# Topics I learned today 
+# Topics I learned 
 - operators
 - control flow statements
 

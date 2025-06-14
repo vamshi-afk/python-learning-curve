@@ -1,4 +1,4 @@
-# Topics Learned today
+# Topics Learned 
 - Introduction to python
 - Data types in python
 - id() in python

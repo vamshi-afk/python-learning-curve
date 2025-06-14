@@ -1,4 +1,4 @@
-# Topics covered today
+# Topics covered 
 - Loops
 
 # Things I might forget
