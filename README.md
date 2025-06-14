@@ -33,7 +33,7 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 ## 📌 How to Use This Repo
 
 - Browse by folder/topic.  
-- Use the per-day `README.md` files as a cheat sheet.  
+- Use the per-stage `README.md` files as a cheat sheet.  
 - Clone and run the scripts to try them yourself.
 
 
