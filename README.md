@@ -13,8 +13,8 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 |---------------------------------------|-------------------------------------|
 | Data types in Python                  | [01](01/)                           |
 | Input/Output (print & input)          | [02](02/)                           |
-| Operators                             | [03](03/) • [Operators](03/Problems/Operators)      |
-| Control Flow Statements               | [03](03/) • [ControlFlow](03/Problems/ControlFlow)  |
+| Operators                             | [03/Problems/Operators](03/Problems/Operators)      |
+| Control Flow Statements               | [03/Problems/ControlFlow](03/Problems/ControlFlow)  |
 | Loops                                 | [04](04/)                           |
 | Functions                             | [05](05/)                           |
 | String, List & Tuple Problems         | [06](06/)                           |
