@@ -1,5 +1,3 @@
-# Didn't make any progress for 2 days because of qualifier1 of ipl25 and khaleja re-release
-
 # Topics covered today
 - Loops
 
