@@ -1,5 +1,3 @@
-Went on a Trip so I didn't upload anything, but will continue the grind from today, even if it's little progress I will do it because it's progress none the less
-
 # Topics covered today
 - Functions
 
