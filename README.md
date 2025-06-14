@@ -9,14 +9,17 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 
 ## 📘 Topics Covered So Far
 
-1. [Data types in python](01)
-2. [I/O (print() & input())](02)
-3. [Operators](03)
-4. [Control flow statements](03/problems/)
-5. [Loops](04)
-6. [Functions](05)
-7. [String & List Problems](06)
-8. [OOP (Object-Oriented Programming)](07)
+| Topic                                 | Path                                |
+|---------------------------------------|-------------------------------------|
+| Data types in Python                  | [01](01/)                           |
+| Input/Output (print & input)          | [02](02/)                           |
+| Operators                             | [03](03/) • [Operators](03/Problems/Operators)      |
+| Control Flow Statements               | [03](03/) • [ControlFlow](03/Problems/ControlFlow)  |
+| Loops                                 | [04](04/)                           |
+| Functions                             | [05](05/)                           |
+| String, List & Tuple Problems         | [06](06/)                           |
+| Object-Oriented Programming (OOP)     | [07](07/)                           |
+| *More coming soon...*                |                                     |
 
 
 ## 🧠 About This Repo
