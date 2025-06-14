@@ -1,11 +1,12 @@
 # Topics I learned 
+
 - operators
 - control flow statements
 
 # Things I might forget
 
 ## Operator
-- Short-circuting in python:
+- **Short-circuting in python**:
     - Python stops evaluating the expression when the overall result of the expression is reached like not evaluating the second expression in logical 'and' operation when the first is false.
     - Short-circuting improves efficiency by avoiding unnecessary evaluations
     - It also plays a role in preventing errors, especially when the second expression depends on the first.

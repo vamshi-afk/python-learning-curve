@@ -1,7 +1,9 @@
 # Topics covered 
+
 - Loops
 
 # Things I might forget
+
 - int is not iterable.
 - if you want to iterate using len() use it inside of range().
 - lstrip() strips from left side of the string till a specified character is reached and also strips the specified character removes blank spaces by default.
