@@ -1,13 +1,23 @@
-# Topics learned 
+# 📘 Topics Learned
 
-- print()
-- input()
+- `print()`
+- `input()`
 
-# Notes
+---
 
-- **print()**:
-    - **sep=''**: Specifies how to separate the objects if there is more than one in a given print() function. Default is a space (' ').
-    - **end=''**: Specifies what to print at the end of print() function. Default is a newline character ('\n').
-- **input()**:
-    - The input() function always returns a string. Use int() to convert inputs to integers when needed.
+# 🧠 Notes
 
+## 🔹 print()
+
+- **`sep=''`**: Specifies the separator between multiple objects in the `print()` function.  
+  - Default is a space `' '`.  
+  - Example: `print('a', 'b', 'c', sep='-')` outputs: `a-b-c`.
+- **`end=''`**: Specifies what to print at the end of the output.  
+  - Default is a newline character `'\n'`.  
+  - Example: `print('Hello', end='!')` outputs: `Hello!` without moving to a new line.
+
+## 🔹 input()
+
+- The `input()` function **always returns a string**.
+- Use `int()` (or other type casts) to convert the input to the required data type.  
+  - Example: `age = int(input("Enter your age: "))`
