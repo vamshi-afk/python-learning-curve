@@ -11,7 +11,7 @@
 - Default arguments are specified by assigning a value to a parameter in the function definition.
 - Example:
    
-  ```
+  ```python
   def greet(name="User"):
       print(f"Hello, {name}")
   ```
@@ -21,7 +21,7 @@
 * Arguments provided using the **parameter name**, allowing you to pass them in any order.
 * Example:
 
-  ```
+  ```python
   def display(name, age):
       print(name, age)
 
