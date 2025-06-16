@@ -18,6 +18,7 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | 5   | [Functions](05/)                      |
 | 6   | [String, List & Tuple Problems](06/)  |
 | 7   | [Object-Oriented Programming (OOP)](07/) |
+| 8   | [Special Methods & ASCII Code](08/)  |
 
 
 ## 🧠 About This Repo
