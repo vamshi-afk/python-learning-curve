@@ -17,7 +17,7 @@
 - Splits a string into a list of substrings based on a delimiter.
 - Example:
   
-  ```
+  ```python
   "a,b,c".split(",")  # ['a', 'b', 'c']
   ```
 
@@ -26,7 +26,7 @@
 * Use slicing with `[::-1]` to reverse.
 * Example:
 
-  ```
+  ```python
   my_list[::-1]
   my_tuple[::-1]
   ```
@@ -49,12 +49,12 @@
 
 * To safely `pop` or `get` with a fallback, use:
 
-  ```
+  ```python
   dict.pop(key, fallback_operation)
   ```
 * Example:
 
-  ```
+  ```python
   d = {'a': 1}
   d.pop('b', None)  # Returns None instead of raising an error
   ```
