@@ -6,3 +6,7 @@ if len(ch) == 1:
     print(f"ASCII of '{ch}' is {ascii}")
 else:
     print("Please enter exactly one character.")
+
+text = "Python"
+ascii_values = [ord(char) for char in text]
+print(ascii_values)

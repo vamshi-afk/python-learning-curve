@@ -1,12 +1,12 @@
 ## 🗂 Topics Covered
-- Special methods in Python
+- Special functions in Python
 - ASCII code
 
 ---
 
 ## 🧠 Notes
 
-### 🔸 Special Methods in Python
+### 🔸 Special Functions in Python
 
 #### ➤ `zip()`
 - Takes multiple iterable objects and aggregates them into a single iterator of tuples, pairing elements by position.

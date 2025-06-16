@@ -1,0 +1,6 @@
+## 🗂 Topics Covered
+- Exception
+
+---
+
+## 🧠 Notes
