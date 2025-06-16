@@ -1,19 +1,33 @@
-# Topics I learned 
+# 📘 Topics I Learned
 
-- operators
-- control flow statements
+- Operators
+- Control Flow Statements
 
-# Notes
+---
+
+# 🧠 Notes
 
 ## Operator
-- **Short-circuting in python**:
-    - Python stops evaluating the expression when the overall result of the expression is reached like not evaluating the second expression in logical 'and' operation when the first is false.
-    - Short-circuting improves efficiency by avoiding unnecessary evaluations
-    - It also plays a role in preventing errors, especially when the second expression depends on the first.
 
-- empty string is treated as false.
-- Identity Operators are used to compare the memory location of two objects.
-- In list even if they have same content, they occupy different memory locations.
-- left shift '<<' multiplication by 2^x where x is the number of shifts, it shifts bits to the left.
-- Right shift '>>' division by 2^x where x is the number of shifts, it shifts bits to the right.
-- 1's complement is inversion of all bits and 2's complement is adding 1 to Least significant bit (LSB)
+### 🔹 Short-Circuiting in Python
+
+- Python stops evaluating an expression as soon as the overall result is determined.
+  - For example, in a logical `and`, if the first operand is `False`, the second is **not evaluated**.
+- Short-circuiting improves efficiency by avoiding unnecessary evaluations.
+- It also helps prevent errors, especially when the second expression depends on the first.
+
+### 🔹 Other Notes on Operators
+
+- An **empty string** is treated as `False` in a boolean context.
+- **Identity Operators** compare the memory locations of two objects.
+- Even if two lists have the **same content**, they occupy **different memory locations**.
+- **Left Shift (`<<`)**:
+  - Multiplies a number by \(2^x\), where \(x\) is the number of shifts.
+  - Shifts bits to the left.
+- **Right Shift (`>>`)**:
+  - Divides a number by \(2^x\), where \(x\) is the number of shifts.
+  - Shifts bits to the right.
+- **1's Complement**:
+  - Inverts all bits.
+- **2's Complement**:
+  - Obtained by adding 1 to the Least Significant Bit (LSB) after taking 1's complement.
