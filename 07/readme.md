@@ -38,3 +38,11 @@
 - **Method Overriding**: Occurs when a subclass provides a specific implementation of a method that is already defined in its superclass. The method in the subclass has the same name and parameters as the one in the superclass. 
 - Python follows the **Method Resolution Order (MRO)** to determine which method to execute when there are multiple methods with the same name in the inheritance hierarchy.
 - The **super()** function is used to give access to methods and properties of a superclass from within a subclass. It allows the subclass to extend or modify the behavior of the superclass method.
+
+- **Polymorphism**: Allows a single name to have different forms. Polymorphism is categorized into two types:
+    - **Static Polymorphism**: Also known as compile-time polymorphism. 
+    In languages like C++ and Java, static polymorphism is typically achieved through function overloading. **Function overloading** allows multiple functions to have the same name but different parameters.
+    In Python, which is a dynamically typed language, function overloading based on the number or type of parameters is not directly supported.
+    - **Dynamic Polymorphism**: Also known as runtime polymorphism.
+     Python inherently supports dynamic polymorphism. This is because Python is a dynamically typed language, meaning you don't need to specify data types explicitly. A single function can accept different types of data.
+    - **Operator overloading**:  This is a form of polymorphism, which enables the same operator to have different meanings based on the context.
