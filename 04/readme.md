@@ -1,10 +1,10 @@
-# 📘 Topics Covered
+## 📘 Topics Covered
 
 - Loops
 
 ---
 
-# 🧠 Notes
+## 🧠 Notes
 
 - `int` is **not iterable**.
 - To iterate using `len()`, use it inside a `range()` function.

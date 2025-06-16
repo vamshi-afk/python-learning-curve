@@ -1,22 +1,22 @@
-# 📘 Topics I Learned
+## 📘 Topics I Learned
 
 - Operators
 - Control Flow Statements
 
 ---
 
-# 🧠 Notes
+## 🧠 Notes
 
-## Operator
+### Operator
 
-### 🔹 Short-Circuiting in Python
+#### 🔹 Short-Circuiting in Python
 
 - Python stops evaluating an expression as soon as the overall result is determined.
   - For example, in a logical `and`, if the first operand is `False`, the second is **not evaluated**.
 - Short-circuiting improves efficiency by avoiding unnecessary evaluations.
 - It also helps prevent errors, especially when the second expression depends on the first.
 
-### 🔹 Other Notes on Operators
+#### 🔹 Other Notes on Operators
 
 - An **empty string** is treated as `False` in a boolean context.
 - **Identity Operators** compare the memory locations of two objects.

@@ -1,4 +1,4 @@
-# 📘 Topics Covered
+## 📘 Topics Covered
 
 In-depth understanding and solved problems on the following topics:
 
@@ -8,7 +8,9 @@ In-depth understanding and solved problems on the following topics:
 
 ---
 
-# 🧵 String
+## 🧠 Notes
+
+### 🧵 String
 
 - **`ord()`**: Returns the integer representing the Unicode of the given character.
 - **`chr()`**: Returns the character corresponding to a given integer.
@@ -34,13 +36,13 @@ In-depth understanding and solved problems on the following topics:
 
 ---
 
-# 📋 List
+### 📋 List
 
 - To add multiple elements, use loops.
 - Tuples (which are immutable) can be added to lists using `append()`.
 - Unlike sets, lists **can contain other lists** as elements.
 
-### 🔨 List Methods
+#### 🔨 List Methods
 
 - **`del`**:
   - A keyword used to delete variables or items from a list **by index**.

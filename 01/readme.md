@@ -1,4 +1,4 @@
-# 📘 Topics Learned
+## 📘 Topics Learned
 
 - Introduction to Python
 - Data Types in Python
@@ -10,9 +10,9 @@
 
 ---
 
-# 🧠 Notes
+## 🧠 Notes
 
-## 🔹 split()
+### 🔹 split()
 
 - Splits a string into a list of substrings based on a delimiter.
 - Example:
@@ -21,7 +21,7 @@
   "a,b,c".split(",")  # ['a', 'b', 'c']
   ```
 
-## 🔹 Reversing Lists and Tuples
+### 🔹 Reversing Lists and Tuples
 
 * Use slicing with `[::-1]` to reverse.
 * Example:
@@ -31,7 +31,7 @@
   my_tuple[::-1]
   ```
 
-## 🔹 Set Operations
+### 🔹 Set Operations
 
 * `add()`: Adds a single item to the set.
 * `update()`: Adds multiple items to the set.
@@ -45,7 +45,7 @@
 * Proper Superset (`>`): Like superset but excludes equality.
 * `sorted()`: Returns a sorted list of set elements without brackets (unlike printing a set).
 
-## 🔹 Dictionary Operations
+### 🔹 Dictionary Operations
 
 * To safely `pop` or `get` with a fallback, use:
 
@@ -59,7 +59,7 @@
   d.pop('b', None)  # Returns None instead of raising an error
   ```
 
-## 🔹 Empty Collections
+### 🔹 Empty Collections
 
 * Empty set: `s = set()`
 * Empty dictionary: `d = {}`

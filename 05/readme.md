@@ -1,12 +1,12 @@
-# 📘 Topics Covered
+## 📘 Topics Covered
 
 - Functions
 
 ---
 
-# 🧠 Notes
+## 🧠 Notes
 
-## 🔹 Default Arguments
+### 🔹 Default Arguments
 
 - Default arguments are specified by assigning a value to a parameter in the function definition.
 - Example:
@@ -16,7 +16,7 @@
       print(f"Hello, {name}")
   ```
   
-## 🔹 Keyword Arguments
+### 🔹 Keyword Arguments
 
 * Arguments provided using the **parameter name**, allowing you to pass them in any order.
 * Example:
@@ -28,7 +28,7 @@
   display(age=25, name="Alice")
   ```
 
-## 🔹 Positional Arguments
+### 🔹 Positional Arguments
 
 * Arguments that must be provided **in the correct order** as defined in the function signature.
 * Example:
@@ -40,11 +40,11 @@
   add(5, 10)  # Correct
   ```
 
-## 🔹 Variable Length Arguments
+### 🔹 Variable Length Arguments
 
 Used when the number of arguments passed to a function is **not fixed**.
 
-### ✅ Variable Length Positional Arguments (`*args`)
+#### ✅ Variable Length Positional Arguments (`*args`)
 
 * Allows passing a varying number of **non-keyworded** arguments.
 * Defined using `*parameter_name`.
@@ -55,7 +55,7 @@ Used when the number of arguments passed to a function is **not fixed**.
       return sum(numbers)
   ```
 
-### ✅ Variable Length Keyword Arguments (`**kwargs`)
+#### ✅ Variable Length Keyword Arguments (`**kwargs`)
 
 * Allows passing a varying number of **keyworded** arguments.
 * Defined using `**parameter_name`.
@@ -67,7 +67,7 @@ Used when the number of arguments passed to a function is **not fixed**.
           print(f"{key}: {value}")
   ```
 
-## 🔹 Returning Multiple Values
+### 🔹 Returning Multiple Values
 
 * Python functions can return **multiple values** using tuples.
 * Values can be assigned using **tuple unpacking**.
