@@ -13,12 +13,11 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 |-----|----------------------------------------|
 | 1   | [Data types in Python](01/)           |
 | 2   | [Input/Output (print & input)](02/)   |
-| 3   | [Operators](03/Problems/Operators)    |
-| 4   | [Control Flow Statements](03/Problems/ControlFlow) |
-| 5   | [Loops](04/)                          |
-| 6   | [Functions](05/)                      |
-| 7   | [String, List & Tuple Problems](06/)  |
-| 8   | [Object-Oriented Programming (OOP)](07/) |
+| 3   | [Operators & Control Flow Statements](03/)    |
+| 4   | [Loops](04/)                          |
+| 5   | [Functions](05/)                      |
+| 6   | [String, List & Tuple Problems](06/)  |
+| 7   | [Object-Oriented Programming (OOP)](07/) |
 
 
 ## 🧠 About This Repo
