@@ -1,11 +1,17 @@
-# Topics covered 
+# 📘 Topics Covered
 
 - Loops
 
-# Notes
+---
 
-- int is not iterable.
-- if you want to iterate using len() use it inside of range().
-- lstrip() strips from left side of the string till a specified character is reached and also strips the specified character removes blank spaces by default.
-- rstrip() strips from right side of the string starting from a specified character and also strips the specified character removes blank spaces by default.
-- Using '_' in a for loop indicates the loop variable is intentionally unused.
+# 🧠 Notes
+
+- `int` is **not iterable**.
+- To iterate using `len()`, use it inside a `range()` function.
+- **`lstrip()`**:
+  - Removes characters from the **left side** of a string until the specified character is reached.
+  - By default, removes leading blank spaces.
+- **`rstrip()`**:
+  - Removes characters from the **right side** of a string starting from the specified character.
+  - By default, removes trailing blank spaces.
+- Using `_` as the loop variable in a `for` loop indicates the variable is **intentionally unused**.
