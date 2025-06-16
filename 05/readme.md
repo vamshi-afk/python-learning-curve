@@ -14,14 +14,13 @@
   ```
   def greet(name="User"):
       print(f"Hello, {name}")
-```
 
 ## 🔹 Keyword Arguments
 
 * Arguments provided using the **parameter name**, allowing you to pass them in any order.
 * Example:
 
-  ```python
+  ```
   def display(name, age):
       print(name, age)
 
