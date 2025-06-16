@@ -56,7 +56,3 @@ In-depth understanding and solved problems on the following topics:
   - Example: `my_list.pop()` or `my_list.pop(1)`
 
 ---
-
-# 🔗 Tuple
-
-*(Notes for Tuple section not provided, can be added later if needed.)*
