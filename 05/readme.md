@@ -9,12 +9,11 @@
 ## 🔹 Default Arguments
 
 - Default arguments are specified by assigning a value to a parameter in the function definition.
-- Example: 
+- Example:
+   
   ```
-  
   def greet(name="User"):
       print(f"Hello, {name}")
-
 ```
 
 ## 🔹 Keyword Arguments
