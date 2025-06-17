@@ -18,6 +18,7 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | 6   | [String, List & Tuple Problems](06-string-list-problems/)         |
 | 7   | [Object-Oriented Programming (OOP)](07-oop/)                      |
 | 8   | [Special Methods & ASCII Code](08-special-functions/)             |
+| 9   | [Errors & Exception Handling](09-exceptions/)             |
 
 ## 🧠 About This Repo
 
