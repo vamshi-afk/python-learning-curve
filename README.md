@@ -19,6 +19,7 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | 7   | [Object-Oriented Programming (OOP)](07-oop/)                      |
 | 8   | [Special Methods & ASCII Code](08-special-functions/)             |
 | 9   | [Errors & Exception Handling](09-exceptions/)             |
+| 10   | [File I/O Basics](10-files-basics/)             |
 
 ## 🧠 About This Repo
 
