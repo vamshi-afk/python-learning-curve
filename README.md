@@ -15,11 +15,12 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | 3   | [Operators & Control Flow Statements](03-operators-control-flow/) |
 | 4   | [Loops](04-loops/)                                                |
 | 5   | [Functions](05-functions/)                                        |
-| 6   | [String, List & Tuple Problems](06-string-list-problems/)         |
+| 6   | [String, List & Tuple Problems](06-strings-and-lists/)         |
 | 7   | [Object-Oriented Programming (OOP)](07-oop/)                      |
 | 8   | [Special Methods & ASCII Code](08-special-functions/)             |
 | 9   | [Errors & Exception Handling](09-exceptions/)             |
-| 10   | [File I/O Basics](10-files-basics/)             |
+| 10   | [File I/O Basics](10-files-io-basics/)             |
+| 11   | [Interview Questions](11-interview-questions/)             |
 
 ## 🧠 About This Repo
 
