@@ -2,7 +2,7 @@
 
 This repository contains practice scripts and concise learning notes from my Python journey.
 
-I'm currently following the free Python course from [GeeksforGeeks](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary resource.
+I have completed the free Python course from [GeeksforGeeks](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary resource.
 
 > ⚠️ These notes are **not teaching material**. They're written to **help me retain and revisit tricky concepts**, not explain every beginner term. If you're looking for definitions like "What is a string?" — you won't find them here.
 
@@ -15,12 +15,12 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 | 3   | [Operators & Control Flow Statements](03-operators-control-flow/) |
 | 4   | [Loops](04-loops/)                                                |
 | 5   | [Functions](05-functions/)                                        |
-| 6   | [String, List & Tuple Problems](06-strings-and-lists/)         |
+| 6   | [String, List & Tuple Problems](06-strings-and-lists/)            |
 | 7   | [Object-Oriented Programming (OOP)](07-oop/)                      |
 | 8   | [Special Methods & ASCII Code](08-special-functions/)             |
-| 9   | [Errors & Exception Handling](09-exceptions/)             |
-| 10   | [File I/O Basics](10-files-io-basics/)             |
-| 11   | [Interview Questions](11-interview-questions/)             |
+| 9   | [Errors & Exception Handling](09-exceptions/)                     |
+| 10  | [File I/O Basics](10-files-io-basics/)                            |
+| 11  | [Interview Questions](11-interview-questions/)                    |
 
 ## 🧠 About This Repo
 
@@ -42,4 +42,5 @@ I'm currently following the free Python course from [GeeksforGeeks](https://www.
 
 This is a personal learning repo, so I'm **not currently accepting pull requests**. However, if you want to fork or clone it for your own learning, feel free!
 
-Thank you for visiting my learning journey! Feel free to reach out or open issues if you have questions or suggestions.
+Thank you for visiting my learning journey!  
+**I have completed the course, and this will be the last commit to this repository.**
