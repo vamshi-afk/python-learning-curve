@@ -2,9 +2,9 @@
 
 This repository contains practice scripts and concise learning notes from my Python journey.
 
-I have completed the free Python course from [GeeksforGeeks](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary resource.
+I followed the free [GeeksforGeeks Python course](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary reference, but all notes and examples are written in my own words.
 
-> ⚠️ These notes are **not teaching material**. They're written to **help me retain and revisit tricky concepts**, not explain every beginner term. If you're looking for definitions like "What is a string?" — you won't find them here.
+> ⚠️ These notes are **not teaching material**. They're made to **help me retain and revisit tricky concepts**, not to explain beginner-level terms. If you're looking for definitions like "What is a string?" — this isn't the right place.
 
 ## 📘 Topics Covered So Far
 
@@ -24,23 +24,23 @@ I have completed the free Python course from [GeeksforGeeks](https://www.geeksfo
 
 ## 🧠 About This Repo
 
-- The repo is organized by topic folders named with numbers (e.g., `01`, `02`, etc.) representing different learning stages.
-- Each topic folder contains:
-  - A `readme.md` file summarizing key concepts and notes for that topic.
-  - A `Problems` subfolder with related practice scripts and, sometimes, further subfolders grouping problem types.
-- This structure helps keep theory and practice code organized and easy to browse.
-- All scripts and notes are written and tested by me during my learning journey.
-- Notes are concise and focused on tricky concepts rather than detailed beginner definitions.
+- Each topic is in its own folder (e.g., `01`, `02`, etc.), with:
+  - A `README.md` summarizing important points.
+  - A `Problems/` subfolder containing related practice scripts.
+- The goal is to keep both theory and code well organized.
+- Notes are intentionally concise, focusing on areas I found tricky or worth revisiting.
 
 ## 📌 How to Use This Repo
 
 - Browse by folder/topic.
-- Use the per-stage `README.md` files as a cheat sheet.
-- Clone and run the scripts to try them yourself.
+- Use the topic-level READMEs as quick-reference notes.
+- Run the practice scripts locally to solidify your understanding.
 
-## 🤝 Contributions and Pull Requests
+## 🤝 Contributions
 
-This is a personal learning repo, so I'm **not currently accepting pull requests**. However, if you want to fork or clone it for your own learning, feel free!
+This is a personal learning project, so I'm **not accepting pull requests right now** — but you're welcome to fork or use it for your own study.
 
-Thank you for visiting my learning journey!  
-**I have completed the course, and this will be the last commit to this repository.**
+---
+
+Thanks for visiting my repo!  
+**I’ve completed the course, and this will be the final commit.**
