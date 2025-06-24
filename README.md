@@ -2,7 +2,7 @@
 
 This repository contains practice scripts and concise learning notes from my Python journey.
 
-I followed the free [GeeksforGeeks Python course](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary reference, but all notes and examples are written in my own words.
+I followed the free [GeeksforGeeks Python course](https://www.geeksforgeeks.org/courses/python-course-certification-free) as my primary reference, but all notes and examples are rewritten in my own words.
 
 > ⚠️ These notes are **not teaching material**. They're made to **help me retain and revisit tricky concepts**, not to explain beginner-level terms. If you're looking for definitions like "What is a string?" — this isn't the right place.
 
