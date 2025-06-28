@@ -20,7 +20,6 @@ I followed the free [GeeksforGeeks Python course](https://www.geeksforgeeks.org/
 | 8   | [Special Methods & ASCII Code](08-special-functions/)             |
 | 9   | [Errors & Exception Handling](09-exceptions/)                     |
 | 10  | [File I/O Basics](10-files-io-basics/)                            |
-| 11  | [Interview Questions](11-interview-questions/)                    |
 
 ## 🧠 About This Repo
 
@@ -42,5 +41,5 @@ This is a personal learning project, so I'm **not accepting pull requests right 
 
 ---
 
-Thanks for visiting my repo!  
+Thanks for visiting my repo!
 **I’ve completed the course, and this will be the final commit.**
